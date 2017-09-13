@@ -14,7 +14,7 @@ import org.testng.Assert;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by Surender on 8/29/2017.
+ * Created by Kuldeep on 8/29/2017.
  */
 public class EmailPage {
 
