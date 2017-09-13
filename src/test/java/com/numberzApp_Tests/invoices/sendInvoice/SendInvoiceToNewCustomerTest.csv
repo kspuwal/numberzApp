@@ -1,0 +1,5 @@
+Test Case,CustomerName,Contact Person Name,Email Address,Phone Number,Address1,Address2, City, PinCode,State, Item Name, Get Finance( ON / OFF )
+TC 1 : Sending Invoice to New Customer with Get Finance Option,cust, Kuldeep, kautoqa@gmail.com, 5446313564, Address1, Address2, Bangalore, 1554654,Karnataka,Software testing,ON
+TC 2 : Sending Invoice to New Customer with By Default Payment Options,Cust, Kuldeep, kautoqa@gmail.com, 8546564863, cust2_Address1, cust2_Address2,New Delhi,1025454,Delhi,ktest_item3,
+TC 3 : Sending Invoice to New Customer without Get Finance Options,Cust, Kuldeep, kautoqa@gmail.com, 56468979, cust3_Address1, cust3_Address2,New Delhi,1055454,Delhi,ktest_item1,OFF
+
